@@ -5,7 +5,7 @@ const GetStarted = () => {
     <section className="g-wrapper" id='getStarted'>
         <div className="paddings innerWidth g-container">
             <div className="flexColCenter inner-container">
-                <span className='primaryText'>Get Started With Homyz</span>
+                <span className='primaryText'>Get Started With Property-Hub</span>
                 <span className='secondaryText'>Subscribe and find super attractive price quotes from us.<br/> Find your residencies soon</span>
                 <button className="button">
                     <a href="mailto:example@gmail.com">Get Started</a>

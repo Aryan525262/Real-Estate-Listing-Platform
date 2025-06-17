@@ -1,0 +1,677 @@
+{
+    "data": {
+        "address": {
+            "countryCode": "GB",
+            "deliveryPointId": 63291001,
+            "displayAddress": "Red Copse Lane, Boars Hill, Oxford, Oxfordshire, OX1",
+            "incode": "5ER",
+            "outcode": "OX1",
+            "ukCountry": "England"
+        },
+        "addressId": "65f88b43305f3bde1933292399b26418",
+        "affordableBuyingScheme": false,
+        "aiLocationInfo": null,
+        "bathrooms": 3,
+        "bedrooms": 7,
+        "broadband": {
+            "broadbandCheckerUrl": "https://partnerships-broadband.comparethemarket.com/v1/broadband/rightmove/OX15ER?apikey=197109b58f8711668138b0a9514eedf30d2b188fbcd0d37bc888101f3317b4bc",
+            "disclaimer": "* This is the average speed from the provider with the fastest broadband package available on <a rel=\"sponsored\" href=\"https://www.comparethemarket.com\" target=\"_blank\">comparethemarket.com</a> at this postcode. The average speed displayed is based on the download speeds of at least 50% of customers at peak time (8pm to 10pm). Fibre/cable services at the postcode are subject to availability and may differ between properties within a postcode. Speeds can be affected by a range of technical and environmental factors. The speed at the property may be lower than that listed above. You can check the estimated speed and confirm availability to a property prior to purchasing on the broadband provider's website. Providers may increase charges. The information is provided and maintained by <a href=\"https://www.stickee.co.uk/\" target=\"_blank\">Stickee Technology Limited</a>."
+        },
+        "brochures": [
+            {
+                "caption": "More Details",
+                "url": "https://www.knightfrank.com/OXF012485921"
+            },
+            {
+                "caption": "Crosby House_A4 16PP",
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_DOC_01_0000.pdf"
+            }
+        ],
+        "businessForSale": false,
+        "channel": "RES_BUY",
+        "commercial": false,
+        "commercialUseClasses": [],
+        "contactInfo": {
+            "contactMethod": "EMAIL",
+            "telephoneNumbers": {
+                "disclaimerDescription": null,
+                "disclaimerText": null,
+                "disclaimerTitle": null,
+                "internationalNumber": null,
+                "localNumber": "01865 638863"
+            }
+        },
+        "countryGuide": null,
+        "customer": {
+            "bannerAd": "https://media.rightmove.co.uk/42k/41033/1730995734275_bp_pd_h_r.jpg",
+            "branchDisplayName": "Knight Frank, Oxford",
+            "branchId": 41033,
+            "branchName": "Oxford",
+            "buildToRent": false,
+            "buildToRentBenefits": [],
+            "commercial": false,
+            "companyName": "Knight Frank",
+            "companyTradingName": "Knight Frank",
+            "customerBannerAdProfileUrl": "/estate-agents/agent/Knight-Frank/Oxford-41033.html#ram_about_us",
+            "customerDescription": {
+                "descriptionHTML": "<p>We are passionate about property. Our foundations are built on supporting clients in one of the most significant decisions they’ll make in their lifetime. As your partners in property, we act with integrity and are here to help you achieve the very best price for your home in the quickest possible time. We offer a range of services for your property requirements. If you are selling, buying or letting a home, or you need some frank advice and insight on the current property market from our team, please get in touch. We’d love to hear from you.</p><p><b>Why Knight Frank</b></p><p>One of the oldest property agencies with offices across the country, our unique Partnership structure allows us to put clients at the heart of what we do.</p><p><b>Track record</b></p><p>Clients come back to us again and again. We are renowned for marketing the best property around the world and sell the majority of properties available over £5 million.</p><p><b>Technology</b></p><p>We constantly drive innovation in marketing property, from our multi-lingual global search to our truly global app for iPad and iPhone.</p><p><b>Research</b></p><p>We lead the field in understanding key drivers of the residential property market, helping you to sell or let your property in the best way possible.</p><p><b>Global, national and local reach</b></p><p>Through our global network of 370 offices we match clients to properties in the UK and around the world.</p><p><b>Multi-lingual property search</b></p><p>Multi-lingual global search and ability to view property details in over 24 languages, including Mandarin and Russian.</p><p><b>World-class marketing campaigns</b></p><p>Advertising in glossy magazines, portals, and prime property websites across the globe.</p>",
+                "isTruncated": true,
+                "truncatedDescriptionHTML": "<p>We are passionate about property. Our foundations are built on supporting clients in one of the most significant decisions they’ll make in their lifetime. As your partners in property, we act with integrity and are here to help you achieve the very best price for your home in the quickest possible time. We offer a range of services for your property requirements. If you are selling, buying or letting a home, or you need some frank advice and insight on the current property market from our tea</p>"
+            },
+            "customerMpuAdProfileUrl": "/estate-agents/agent/Knight-Frank/Oxford-41033.html#ram_about_us",
+            "customerProfileUrl": "/estate-agents/agent/Knight-Frank/Oxford-41033.html",
+            "customerPropertiesUrl": "/property-for-sale/find/Knight-Frank/Oxford.html?locationIdentifier=BRANCH%5E41033&includeSSTC=true&_includeSSTC=on",
+            "developmentInfo": {
+                "micrositeFeatures": [],
+                "sitePlanUri": null
+            },
+            "displayAddress": "Unit 3\r\n274 Banbury Road, Summertown,\r\nOxford,\r\nOxfordshire,\r\nOX2 7DY",
+            "isNewHomeDeveloper": false,
+            "logoPath": "https://media.rightmove.co.uk/company/clogo_16112_0007.jpeg",
+            "mpuAd": "https://media.rightmove.co.uk/42k/41033/1730995760423_bp_mpu_r.jpg",
+            "products": {
+                "hasMicrosite": true
+            },
+            "showBrochureLeadModal": false,
+            "spotlight": null,
+            "valuationFormUrl": "/estate-agents/contactBranch.html?branchId=41033",
+            "videoEnabled": false,
+            "videoUrl": null
+        },
+        "dfpAdInfo": {
+            "channel": "RES_BUY",
+            "targeting": [
+                {
+                    "key": "SO",
+                    "value": [
+                        "FALSE"
+                    ]
+                },
+                {
+                    "key": "R",
+                    "value": [
+                        "FALSE"
+                    ]
+                },
+                {
+                    "key": "AUCP",
+                    "value": [
+                        "FALSE"
+                    ]
+                },
+                {
+                    "key": "CCY",
+                    "value": [
+                        "GBP"
+                    ]
+                },
+                {
+                    "key": "UTo_A",
+                    "value": [
+                        "OX"
+                    ]
+                },
+                {
+                    "key": "UTo_C",
+                    "value": [
+                        "GB"
+                    ]
+                },
+                {
+                    "key": "CT",
+                    "value": [
+                        "property-for-sale"
+                    ]
+                },
+                {
+                    "key": "TT",
+                    "value": [
+                        "buy"
+                    ]
+                },
+                {
+                    "key": "BD",
+                    "value": [
+                        "7"
+                    ]
+                },
+                {
+                    "key": "PT",
+                    "value": [
+                        "houses"
+                    ]
+                },
+                {
+                    "key": "PST",
+                    "value": [
+                        "detached"
+                    ]
+                },
+                {
+                    "key": "RESALEPRICE",
+                    "value": [
+                        "5750000"
+                    ]
+                },
+                {
+                    "key": "B",
+                    "value": [
+                        "Band12"
+                    ]
+                },
+                {
+                    "key": "B_ID",
+                    "value": [
+                        "41033"
+                    ]
+                },
+                {
+                    "key": "C_ID",
+                    "value": [
+                        "Knight Frank"
+                    ]
+                },
+                {
+                    "key": "FP",
+                    "value": [
+                        "Y"
+                    ]
+                },
+                {
+                    "key": "EPC",
+                    "value": [
+                        "Y"
+                    ]
+                },
+                {
+                    "key": "P_ID",
+                    "value": [
+                        "161794478"
+                    ]
+                },
+                {
+                    "key": "OV",
+                    "value": [
+                        "N"
+                    ]
+                },
+                {
+                    "key": "UTo_D",
+                    "value": [
+                        "OX1"
+                    ]
+                },
+                {
+                    "key": "UTo_Inc",
+                    "value": [
+                        "5ER"
+                    ]
+                },
+                {
+                    "key": "F",
+                    "value": [
+                        "parking",
+                        "communalpool",
+                        "garden"
+                    ]
+                },
+                {
+                    "key": "FS",
+                    "value": [
+                        "unfurnished"
+                    ]
+                },
+                {
+                    "key": "UTo_UKZ",
+                    "value": [
+                        "England"
+                    ]
+                }
+            ]
+        },
+        "entranceFloor": null,
+        "epcGraphs": [
+            {
+                "caption": "Energy performance c",
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_EPC_00_0000.pdf"
+            },
+            {
+                "caption": "Generated EPC Graph.",
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_EPCGRAPH_00_0000.png"
+            }
+        ],
+        "features": {
+            "accessibility": [],
+            "broadband": [],
+            "electricity": [],
+            "garden": [
+                {
+                    "alias": "garden",
+                    "displayText": "Yes"
+                }
+            ],
+            "heating": [],
+            "obligations": {
+                "listed": null,
+                "requiredAccess": null,
+                "restrictions": null,
+                "rightsOfWay": null
+            },
+            "parking": [
+                {
+                    "alias": "parking",
+                    "displayText": "Yes"
+                }
+            ],
+            "risks": {
+                "floodDefences": null,
+                "floodSources": [],
+                "floodedInLastFiveYears": null
+            },
+            "sewerage": [],
+            "water": []
+        },
+        "feesApply": null,
+        "floorplans": [
+            {
+                "caption": "Crosby House-Boars H",
+                "resizedFloorplanUrls": {
+                    "size296x197": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_FLP_00_0000_max_296x197.png"
+                },
+                "type": "IMAGE",
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_FLP_00_0000.png"
+            }
+        ],
+        "id": "161794478",
+        "images": [
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_00_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_00_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_00_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_00_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_01_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_01_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_01_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_01_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_02_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_02_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_02_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_02_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_03_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_03_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_03_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_03_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_04_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_04_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_04_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_04_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_05_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_05_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_05_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_05_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_06_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_06_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_06_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_06_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_07_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_07_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_07_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_07_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_08_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_08_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_08_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_08_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_09_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_09_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_09_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_09_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_10_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_10_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_10_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_10_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_11_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_11_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_11_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_11_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_12_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_12_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_12_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_12_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_13_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_13_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_13_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_13_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_14_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_14_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_14_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_14_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_15_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_15_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_15_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_15_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_16_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_16_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_16_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_16_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_17_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_17_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_17_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_17_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_18_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_18_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_18_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_18_0000.jpeg"
+            },
+            {
+                "caption": null,
+                "resizedImageUrls": {
+                    "size135x100": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_19_0000_max_135x100.jpeg",
+                    "size476x317": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_19_0000_max_476x317.jpeg",
+                    "size656x437": "https://media.rightmove.co.uk/dir/42k/41033/161794478/41033_OXF012485921_IMG_19_0000_max_656x437.jpeg"
+                },
+                "url": "https://media.rightmove.co.uk/42k/41033/161794478/41033_OXF012485921_IMG_19_0000.jpeg"
+            }
+        ],
+        "industryAffiliations": [
+            {
+                "imagePath": "https://media.rightmove.co.uk/dir/customer/industry-affiliation/property-redress-scheme_max_135x100.png",
+                "name": "Property Redress Scheme"
+            },
+            {
+                "imagePath": "https://media.rightmove.co.uk/dir/customer/industry-affiliation/national-association-of-estate-agents_max_135x100.png",
+                "name": "National Association of Estate Agents"
+            },
+            {
+                "imagePath": "https://media.rightmove.co.uk/dir/customer/industry-affiliation/association-of-residential-lettings-agent_max_135x100.png",
+                "name": "Association of Residential Letting Agents"
+            }
+        ],
+        "infoReelItems": [
+            {
+                "primaryText": "Detached",
+                "secondaryText": "",
+                "title": "PROPERTY TYPE",
+                "tooltipText": "",
+                "type": "PROPERTY_TYPE"
+            },
+            {
+                "primaryText": "7",
+                "secondaryText": "",
+                "title": "BEDROOMS",
+                "tooltipText": "",
+                "type": "BEDROOMS"
+            },
+            {
+                "primaryText": "3",
+                "secondaryText": "",
+                "title": "BATHROOMS",
+                "tooltipText": "",
+                "type": "BATHROOMS"
+            },
+            {
+                "primaryText": "6,415 sq ft",
+                "secondaryText": "596 sq m",
+                "title": "SIZE",
+                "tooltipText": "",
+                "type": "SIZE"
+            }
+        ],
+        "keyFeatures": [
+            "7 bedrooms",
+            "5 reception rooms",
+            "3 bathrooms",
+            "1.42 acres",
+            "Modern",
+            "Detached",
+            "Garden",
+            "Parking",
+            "Rural",
+            "Suburban"
+        ],
+        "lettings": null,
+        "listingHistory": {
+            "listingUpdateReason": "Added today"
+        },
+        "livingCosts": {
+            "annualGroundRent": null,
+            "annualServiceCharge": null,
+            "councilTaxBand": "H",
+            "councilTaxExempt": false,
+            "councilTaxIncluded": false,
+            "domesticRates": null,
+            "groundRentPercentageIncrease": null,
+            "groundRentReviewPeriodInYears": 0
+        },
+        "location": {
+            "circleRadiusOnMap": 0,
+            "latitude": 51.7201,
+            "longitude": -1.2797,
+            "pinType": "ACCURATE_POINT",
+            "showMap": true,
+            "zoomLevel": 15
+        },
+        "misInfo": {
+            "branchId": 41033,
+            "brandPlus": true,
+            "featuredProperty": false,
+            "offerAdvertStampTypeId": null,
+            "premiumDisplay": false,
+            "premiumDisplayStampId": null
+        },
+        "mortgageCalculator": {
+            "price": 5750000,
+            "propertyTypeAlias": "houses"
+        },
+        "nearestAirports": [],
+        "nearestStations": [
+            {
+                "distance": 2.3370558883806445,
+                "name": "Oxford Station",
+                "types": [
+                    "NATIONAL_TRAIN"
+                ],
+                "unit": "miles"
+            },
+            {
+                "distance": 2.9105615522128407,
+                "name": "Radley Station",
+                "types": [
+                    "NATIONAL_TRAIN"
+                ],
+                "unit": "miles"
+            },
+            {
+                "distance": 4.930281402315203,
+                "name": "Culham Station",
+                "types": [
+                    "NATIONAL_TRAIN"
+                ],
+                "unit": "miles"
+            }
+        ],
+        "prices": {
+            "displayPriceQualifier": "Guide Price",
+            "exchangeRate": null,
+            "message": null,
+            "pricePerSqFt": "£896.34 per sq ft",
+            "primaryPrice": "£5,750,000",
+            "secondaryPrice": null
+        },
+        "propertySubType": "Detached",
+        "propertyUrls": {
+            "nearbySoldPropertiesUrl": "/house-prices/ox1-5er.html",
+            "similarPropertiesUrl": "/property-for-sale/OX1-5ER.html?radius=0.5&minPrice=5000000&maxPrice=7500000&minBedrooms=5"
+        },
+        "reviews": null,
+        "rooms": [],
+        "sharedOwnership": {
+            "ownershipPercentage": null,
+            "rentFrequency": "(for payment frequency, ask the agent)",
+            "rentPrice": null,
+            "sharedOwnershipFlag": false
+        },
+        "showSchoolInfo": true,
+        "sizings": [
+            {
+                "displayUnit": "ac.",
+                "maximumSize": 0.15,
+                "minimumSize": 0.15,
+                "unit": "ac"
+            },
+            {
+                "displayUnit": "sq. m.",
+                "maximumSize": 596,
+                "minimumSize": 596,
+                "unit": "sqm"
+            },
+            {
+                "displayUnit": "sq. ft.",
+                "maximumSize": 6415,
+                "minimumSize": 6415,
+                "unit": "sqft"
+            },
+            {
+                "displayUnit": "ha.",
+                "maximumSize": 0.06,
+                "minimumSize": 0.06,
+                "unit": "ha"
+            }
+        ],
+        "soldPropertyType": "DETACHED",
+        "staticMapImgUrls": {
+            "staticMapImgUrlDesktopLarge": "https://media.rightmove.co.uk/map/_generate?width=761&height=347&zoomLevel=15&latitude=51.7201&longitude=-1.2797&signature=Uncx5dxVv084f-fMasOm00MxA08=",
+            "staticMapImgUrlDesktopSmall": "https://media.rightmove.co.uk/map/_generate?width=580&height=347&zoomLevel=15&latitude=51.7201&longitude=-1.2797&signature=BH01pfXlCcktbmEJOebv8mjszuM=",
+            "staticMapImgUrlMobile": "https://media.rightmove.co.uk/map/_generate?width=375&height=375&zoomLevel=15&latitude=51.7201&longitude=-1.2797&signature=aeauaatGPZJ_vpwVRMKW34Q4sGE=",
+            "staticMapImgUrlTablet": "https://media.rightmove.co.uk/map/_generate?width=768&height=347&zoomLevel=15&latitude=51.7201&longitude=-1.2797&signature=img--jx-7kzq1qrE3Wwwbf_tLvI="
+        },
+        "status": {
+            "archived": false,
+            "published": true
+        },
+        "streetView": {
+            "heading": null,
+            "latitude": 51.7201,
+            "longitude": -1.2797,
+            "pitch": null,
+            "zoom": null
+        },
+        "tags": [],
+        "tenure": {
+            "message": null,
+            "tenureType": "FREEHOLD",
+            "yearsRemainingOnLease": null
+        },
+        "termsOfUse": "This Application Programming Interface (API) is for the use of Rightmove Group Limited only. No other individual or business may link to, or make use of, this API without the express written permission of Rightmove's Legal Team. Any unauthorised use of this API will constitute a breach of Rightmove's Terms of Use, available at https://www.rightmove.co.uk/this-site/terms-of-use.html, and Rightmove will enforce its rights to the fullest extent permitted by law.",
+        "text": {
+            "auctionFeesDisclaimer": null,
+            "description": "This beautifully positioned house sits in landscaped gardens and grounds of 1.42 acres with glorious rural views. It offers extensive facilities with ancillary accommodation, a swimming pool, a pond, a stream and a triple garage. It is presented to a very high standard with underfloor heating throughout, Lutron lighting, high-quality joinery and marble fittings. It has been extensively renovated and offers almost 6,700 square feet of living space over two floors and a cellar. <br /><br />The house has been designed to take full advantage of its setting, with the principal rooms overlooking the garden. There is a stunning kitchen/breakfast room with bi-fold doors to the terrace and a utility and boot room to the side. The drawing room, dining room and sitting room all overlook the garden, and there is a cinema room and a study. <br />The first floor has a lovely large landing with the principal bedroom suite to one end, with an en suite bath/shower room, dressing room and balcony. There are five to six further bedrooms, a bathroom and a shower room. The second floor has a further en suite bedroom.<br /><br />Outside <br /><br />The house is approached off Red Copse Lane through electric gates onto a large gravel drive with the triple garage to one side. Above this is a two bedroom flat and adjacent to the garage is a secure yard with large laundry/store room. <br />The gardens lie to the rear and slope gently with a large terrace with steps down to the swimming pool. The gardens have been extensively landscaped with the creation of herbaceous borders, planting of fruit trees, an irrigation system and the renovation of the pond with new filter system.<p><br />Boars Hill is a sought-after residential area famous for its wooded rural setting, just over three miles from the centre of Oxford. The house is on a no-through road and enjoys a lovely setting with fine rural views. <br /><br />It is well served by communications, with access to the A34 and Oxford ring road, connecting to the M4 and M40 motorways. The regional centres of Newbury and Swindon are also within easy reach. Communications by rail are also excellent, with fast trains from Oxford or Didcot to London Paddington taking about fifty and forty-five minutes, respectively. In addition, Oxford Parkway station has services to London Marylebone in fifty-six minutes.<br /><br />It is well positioned to take advantage of the excellent schools in the area, including St. Helen and St. Katharine, Abingdon, Radley, Cothill and Chandlings, as well as The Dragon, St Edward's, Magdalen College, Summer Fields, Headington, Wychwood and Oxford High School in Oxford.</p>",
+            "disclaimer": "<b>Disclaimer</b> - Property reference OXF012485921. The information displayed about this property comprises a property advertisement. Rightmove.co.uk makes no warranty as to the accuracy or completeness of the advertisement or any linked or associated information, and Rightmove has no control over the content. This property advertisement does not constitute property particulars. The information is provided and maintained by <b>Knight Frank, Oxford</b>.&nbsp;Please contact the selling agent or developer directly to obtain any information which may be available under the terms of The Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007 or the Home Report if in relation to a residential property in Scotland.",
+            "guidePriceDisclaimer": null,
+            "newHomesBrochureDisclaimer": "Please note that Rightmove will send the above details to Knight Frank only. By submitting this form, you confirm that you agree to our website <a href=\"/this-site/terms-of-use.html\">terms of use</a>, our <a href=\"/this-site/privacy-policy.html\">privacy policy</a> and understand how we store <a href=\"/this-site/cookies.html\">cookies</a> on your device.",
+            "pageTitle": "7 bedroom detached house for sale in Red Copse Lane, Boars Hill, Oxford, Oxfordshire, OX1",
+            "propertyPhrase": "7 bedroom detached house",
+            "reservePriceDisclaimer": null,
+            "shareDescription": "7 bedroom detached house for sale in Red Copse Lane, Boars Hill, Oxford, Oxfordshire, OX1 for £5,750,000. Marketed by Knight Frank, Oxford",
+            "shareText": "Check out this 7 bedroom detached house for sale on Rightmove",
+            "shortDescription": "7 bedroom detached house for sale",
+            "staticMapDisclaimerText": "Map data ©<a href=\"http://www.openstreetmap.org/copyright\" rel=\"nofollow\" target=\"_blank\" title=\"Open Street Map\">OpenStreetMap</a> contributors."
+        },
+        "transactionType": "BUY",
+        "virtualTours": []
+    },
+    "message": "Successful",
+    "status": true
+}

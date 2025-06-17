@@ -3,9 +3,11 @@
 }
 
 .h-container{
+    display:flex;
+    align-items: center;
     justify-content: space-between;
     /* padding-top: 1rem; */
-    padding-top: 0;
+    padding-top: 16px;
     padding-bottom: 1rem;
     color: var(--secondary);
 }

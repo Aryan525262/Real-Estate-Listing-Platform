@@ -1,11 +1,24 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Hero.css";
 import { HiLocationMarker } from "react-icons/hi";
 import CountUp from "react-countup";
 import {motion} from 'framer-motion';
+import Residencies from "../Residencies-crousel/Residencies";
+import { Link, useNavigate } from "react-router-dom";
 const Hero = () => {
+  const [inputValue, setInputValue] = useState("");
+  const navigate = useNavigate();
+  const handleLocation = ()=>{
+    if(inputValue.trim()){
+      navigate("/residencies",{state: {location: inputValue}});
+    }
+  }
+  const handleClick = (e)=>{
+    console.log(e.target.value)
+    setInputValue(e.target.value);
+  }
   return (
-    <section className="hero-wrapper">
+    <section className="hero-wrapper bg-black" >
       <div className="paddings flexCenter innerWidth hero-container ">
         {/* Left Hero */}
         <div className="flexColStart flexCenter hero-left">
@@ -19,7 +32,7 @@ const Hero = () => {
               type:"ease-in"
             }}
             >
-              Discover <br /> Most Suitable <br /> Property
+              Explore <br /> Most Suitable <br /> Property
             </motion.h1>
           </div>
           <div className="flexColStart hero-des">
@@ -28,8 +41,8 @@ const Hero = () => {
           </div>
           <div className="flexCenter search-bar">
             <HiLocationMarker color="var(--blue)" size={25} />
-            <input type="text" placeholder="Location" />
-            <button className="button">Search</button>
+            <input type="text" placeholder="Location" value= {inputValue} onChange={handleClick} />
+            <button className="button" onClick={handleLocation} >Search</button>
           </div>
           <div className="flexCenter stats">
             <div className="flexColCenter stat">
@@ -65,7 +78,7 @@ const Hero = () => {
             type:"spring"
           }}
           >
-            <img src="./hero-image.png" alt="" />
+            <img src="./prop1.jpeg" alt="" />
           </motion.div>
         </div>
       </div>

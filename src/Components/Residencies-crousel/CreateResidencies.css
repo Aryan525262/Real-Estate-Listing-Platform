@@ -1,0 +1,99 @@
+/* Global Container */
+.create-property-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Form Styling */
+.property-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.input-field {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 1rem;
+    background-color: #fff;
+    transition: border 0.3s;
+}
+
+.input-field:focus {
+    border-color: #4CAF50;
+    outline: none;
+}
+
+.textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+
+.input-file {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.input-file::-webkit-file-upload-button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.input-file::-webkit-file-upload-button:hover {
+    background-color: #45a049;
+}
+
+/* Button Styling */
+.btn-submit {
+    padding: 12px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+}
+
+.btn-submit:hover {
+    background-color: #45a049;
+}
+
+.btn-submit:active {
+    background-color: #388e3c;
+}
+
+/* Responsive Styling */
+@media (max-width: 600px) {
+    .create-property-container {
+        padding: 15px;
+    }
+
+    .property-form {
+        gap: 15px;
+    }
+
+    .title {
+        font-size: 1.5rem;
+    }
+}

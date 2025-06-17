@@ -1,0 +1,515 @@
+{
+    "currentPage": 1,
+    "data": [
+        {
+            "addedOrReduced": "Added today",
+            "auction": false,
+            "bathrooms": 3,
+            "bedrooms": 7,
+            "channel": "BUY",
+            "commercial": false,
+            "contactUrl": "/property-for-sale/contactBranch.html?propertyId=161794478",
+            "countryCode": "GB",
+            "customer": {
+                "branchDisplayName": "Knight Frank, Oxford",
+                "branchId": 41033,
+                "branchLandingPageUrl": "/estate-agents/agent/Knight-Frank/Oxford-41033.html",
+                "branchName": "Oxford",
+                "brandPlusLogoURI": "/company/clogo_rmchoice_16112_0017.png",
+                "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_16112_0017.png",
+                "brandTradingName": "Knight Frank",
+                "buildToRent": false,
+                "buildToRentBenefits": [],
+                "commercial": false,
+                "contactTelephone": "01865 638863",
+                "development": false,
+                "developmentContent": null,
+                "enhancedListing": false,
+                "showOnMap": true,
+                "showReducedProperties": true
+            },
+            "development": false,
+            "displayAddress": "Red Copse Lane, Boars Hill, Oxford, Oxfordshire, OX1",
+            "displaySize": "6,415 sq. ft.",
+            "displayStatus": "",
+            "distance": null,
+            "enhancedListing": false,
+            "enquiredTimestamp": null,
+            "enquiryAddedTimestamp": null,
+            "enquiryCalledTimestamp": null,
+            "featuredProperty": false,
+            "feesApply": false,
+            "feesApplyText": null,
+            "firstVisibleDate": "2025-05-11T09:47:27Z",
+            "formattedBranchName": " by Knight Frank, Oxford",
+            "formattedDistance": "",
+            "hasBrandPlus": true,
+            "heading": "",
+            "hidden": false,
+            "id": 161794478,
+            "isRecent": true,
+            "keywordMatchType": "no_keyword",
+            "keywords": [],
+            "listingUpdate": {
+                "listingUpdateDate": "2025-05-11T09:53:01Z",
+                "listingUpdateReason": "new"
+            },
+            "location": {
+                "latitude": 51.7201,
+                "longitude": -1.2797
+            },
+            "lozengeModel": {
+                "matchingLozenges": []
+            },
+            "numberOfFloorplans": 1,
+            "numberOfImages": 20,
+            "numberOfVirtualTours": 0,
+            "onlineViewingsAvailable": false,
+            "premiumListing": false,
+            "price": {
+                "amount": 5750000,
+                "currencyCode": "GBP",
+                "displayPrices": [
+                    {
+                        "displayPrice": "£5,750,000",
+                        "displayPriceQualifier": "Guide Price"
+                    }
+                ],
+                "frequency": "not specified"
+            },
+            "productLabel": {
+                "productLabelText": null,
+                "spotlightLabel": false
+            },
+            "propertyImages": {
+                "images": [
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_00_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_00_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_01_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_01_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_02_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_02_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_03_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_03_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_04_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_04_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_05_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_05_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_06_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_06_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_07_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_07_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_08_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_08_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_09_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_09_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_10_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_10_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_11_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_11_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_12_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_12_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_13_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_13_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_14_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_14_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_15_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_15_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_16_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_16_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_17_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_17_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_18_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_18_0000.jpeg"
+                    },
+                    {
+                        "caption": null,
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_19_0000_max_476x317.jpeg",
+                        "url": "42k/41033/161794478/41033_OXF012485921_IMG_19_0000.jpeg"
+                    }
+                ],
+                "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_00_0000_max_476x317.jpeg",
+                "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/42k/41033/161794478/41033_OXF012485921_IMG_00_0000_max_296x197.jpeg"
+            },
+            "propertySubType": "Detached",
+            "propertyTypeFullDescription": "7 bedroom detached house for sale",
+            "propertyUrl": "/properties/161794478#/?channel=RES_BUY",
+            "residential": true,
+            "saved": false,
+            "showOnMap": true,
+            "staticMapUrl": null,
+            "students": false,
+            "summary": "An exceptional country house with lovely views just over 3 miles from Oxford. This beautifully positioned house sits in landscaped gardens and grounds of 1.42 acres with glorious rural views. It offers extensive facilities with ancillary accommodation, a swimming pool, a pond, a stream and a tri...",
+            "transactionType": "buy"
+        },
+        {
+            "addedOrReduced": "Reduced yesterday",
+            "auction": false,
+            "bathrooms": 3,
+            "bedrooms": 5,
+            "channel": "BUY",
+            "commercial": false,
+            "contactUrl": "/property-for-sale/contactBranch.html?propertyId=159348245",
+            "countryCode": "GB",
+            "customer": {
+                "branchDisplayName": "Yopa, Midlands, South West & Wales",
+                "branchId": 201719,
+                "branchLandingPageUrl": "/estate-agents/agent/Yopa/Midlands-South-West-and-Wales-201719.html",
+                "branchName": "Midlands, South West & Wales",
+                "brandPlusLogoURI": "/company/clogo_rmchoice_43678_0008.jpeg",
+                "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_43678_0008.jpeg",
+                "brandTradingName": "Yopa",
+                "buildToRent": false,
+                "buildToRentBenefits": [],
+                "commercial": false,
+                "contactTelephone": "01202 145444",
+                "development": false,
+                "developmentContent": null,
+                "enhancedListing": false,
+                "showOnMap": true,
+                "showReducedProperties": true
+            },
+            "development": false,
+            "displayAddress": "Bartlemas Road, Oxford, OX4",
+            "displaySize": "",
+            "displayStatus": "",
+            "distance": null,
+            "enhancedListing": false,
+            "enquiredTimestamp": null,
+            "enquiryAddedTimestamp": null,
+            "enquiryCalledTimestamp": null,
+            "featuredProperty": false,
+            "feesApply": false,
+            "feesApplyText": null,
+            "firstVisibleDate": "2025-03-13T08:34:21Z",
+            "formattedBranchName": " by Yopa, Midlands, South West & Wales",
+            "formattedDistance": "",
+            "hasBrandPlus": true,
+            "heading": "",
+            "hidden": false,
+            "id": 159348245,
+            "isRecent": true,
+            "keywordMatchType": "no_keyword",
+            "keywords": [],
+            "listingUpdate": {
+                "listingUpdateDate": "2025-05-10T18:42:40Z",
+                "listingUpdateReason": "price_reduced"
+            },
+            "location": {
+                "latitude": 51.746236,
+                "longitude": -1.229492
+            },
+            "lozengeModel": {
+                "matchingLozenges": []
+            },
+            "numberOfFloorplans": 1,
+            "numberOfImages": 10,
+            "numberOfVirtualTours": 0,
+            "onlineViewingsAvailable": false,
+            "premiumListing": true,
+            "price": {
+                "amount": 775000,
+                "currencyCode": "GBP",
+                "displayPrices": [
+                    {
+                        "displayPrice": "£775,000",
+                        "displayPriceQualifier": ""
+                    }
+                ],
+                "frequency": "not specified"
+            },
+            "productLabel": {
+                "productLabelText": "Premium Listing",
+                "spotlightLabel": false
+            },
+            "propertyImages": {
+                "images": [
+                    {
+                        "caption": "Kitchen/Living Room",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_00_0000_max_476x317.jpeg",
+                        "url": "202k/201719/159348245/201719_434406_IMG_00_0000.jpeg"
+                    },
+                    {
+                        "caption": "Front",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_09_0000_max_476x317.jpeg",
+                        "url": "202k/201719/159348245/201719_434406_IMG_09_0000.jpeg"
+                    },
+                    {
+                        "caption": "Kitchen",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_01_0000_max_476x317.jpeg",
+                        "url": "202k/201719/159348245/201719_434406_IMG_01_0000.jpeg"
+                    },
+                    {
+                        "caption": "Hallway",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_02_0000_max_476x317.jpeg",
+                        "url": "202k/201719/159348245/201719_434406_IMG_02_0000.jpeg"
+                    },
+                    {
+                        "caption": "GF Bathroom",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_03_0000_max_476x317.jpeg",
+                        "url": "202k/201719/159348245/201719_434406_IMG_03_0000.jpeg"
+                    },
+                    {
+                        "caption": "Bedroom 2",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_04_0000_max_476x317.jpeg",
+                        "url": "202k/201719/159348245/201719_434406_IMG_04_0000.jpeg"
+                    },
+                    {
+                        "caption": "Bedroom 5",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_05_0000_max_476x317.jpeg",
+                        "url": "202k/201719/159348245/201719_434406_IMG_05_0000.jpeg"
+                    },
+                    {
+                        "caption": "Bedroom 4",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_06_0000_max_476x317.jpeg",
+                        "url": "202k/201719/159348245/201719_434406_IMG_06_0000.jpeg"
+                    },
+                    {
+                        "caption": "Bedroom 3",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_07_0000_max_476x317.jpeg",
+                        "url": "202k/201719/159348245/201719_434406_IMG_07_0000.jpeg"
+                    },
+                    {
+                        "caption": "Bartlemas Road EPC",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_08_0000_max_476x317.png",
+                        "url": "202k/201719/159348245/201719_434406_IMG_08_0000.png"
+                    }
+                ],
+                "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_00_0000_max_476x317.jpeg",
+                "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/202k/201719/159348245/201719_434406_IMG_00_0000_max_296x197.jpeg"
+            },
+            "propertySubType": "End of Terrace",
+            "propertyTypeFullDescription": "5 bedroom end of terrace house for sale",
+            "propertyUrl": "/properties/159348245#/?channel=RES_BUY",
+            "residential": true,
+            "saved": false,
+            "showOnMap": true,
+            "staticMapUrl": null,
+            "students": false,
+            "summary": "A well proportioned Victorian end of terrace family house located in the heart of a popular East Oxford neighbourhood and in close proximity to the Cowley Road with easy access to the city centre. The property is offered with no forward chain.",
+            "transactionType": "buy"
+        },
+        {
+            "addedOrReduced": "Added today",
+            "auction": false,
+            "bathrooms": 1,
+            "bedrooms": 3,
+            "channel": "BUY",
+            "commercial": false,
+            "contactUrl": "/property-for-sale/contactBranch.html?propertyId=161793920",
+            "countryCode": "GB",
+            "customer": {
+                "branchDisplayName": "Manor, Oxford",
+                "branchId": 221315,
+                "branchLandingPageUrl": "/estate-agents/agent/Manor/Oxford-221315.html",
+                "branchName": "Oxford",
+                "brandPlusLogoURI": "/222k/221315/branch_rmchoice_logo_221315_0004.jpeg",
+                "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/222k/221315/branch_rmchoice_logo_221315_0004.jpeg",
+                "brandTradingName": "Manor",
+                "buildToRent": false,
+                "buildToRentBenefits": [],
+                "commercial": false,
+                "contactTelephone": "01865 638904",
+                "development": false,
+                "developmentContent": null,
+                "enhancedListing": false,
+                "showOnMap": true,
+                "showReducedProperties": true
+            },
+            "development": false,
+            "displayAddress": "The Glebe, Cumnor",
+            "displaySize": "1,079 sq. ft.",
+            "displayStatus": "",
+            "distance": null,
+            "enhancedListing": false,
+            "enquiredTimestamp": null,
+            "enquiryAddedTimestamp": null,
+            "enquiryCalledTimestamp": null,
+            "featuredProperty": false,
+            "feesApply": false,
+            "feesApplyText": null,
+            "firstVisibleDate": "2025-05-11T07:53:52Z",
+            "formattedBranchName": " by Manor, Oxford",
+            "formattedDistance": "",
+            "hasBrandPlus": true,
+            "heading": "",
+            "hidden": false,
+            "id": 161793920,
+            "isRecent": true,
+            "keywordMatchType": "no_keyword",
+            "keywords": [],
+            "listingUpdate": {
+                "listingUpdateDate": "2025-05-11T07:59:01Z",
+                "listingUpdateReason": "new"
+            },
+            "location": {
+                "latitude": 51.733619,
+                "longitude": -1.328711
+            },
+            "lozengeModel": {
+                "matchingLozenges": []
+            },
+            "numberOfFloorplans": 1,
+            "numberOfImages": 13,
+            "numberOfVirtualTours": 0,
+            "onlineViewingsAvailable": false,
+            "premiumListing": false,
+            "price": {
+                "amount": 545000,
+                "currencyCode": "GBP",
+                "displayPrices": [
+                    {
+                        "displayPrice": "£545,000",
+                        "displayPriceQualifier": "Guide Price"
+                    }
+                ],
+                "frequency": "not specified"
+            },
+            "productLabel": {
+                "productLabelText": null,
+                "spotlightLabel": false
+            },
+            "propertyImages": {
+                "images": [
+                    {
+                        "caption": "IMG_0026.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_00_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_00_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0028.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_01_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_01_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0027.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_02_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_02_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0025.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_03_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_03_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0033.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_04_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_04_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0042.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_05_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_05_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0035.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_06_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_06_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0037.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_07_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_07_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0040.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_08_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_08_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0036.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_09_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_09_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0039.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_10_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_10_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0032.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_11_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_11_0000.jpeg"
+                    },
+                    {
+                        "caption": "IMG_0030.jpeg",
+                        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_12_0000_max_476x317.jpeg",
+                        "url": "222k/221315/161793920/221315_33874876_IMG_12_0000.jpeg"
+                    }
+                ],
+                "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_00_0000_max_476x317.jpeg",
+                "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221315/161793920/221315_33874876_IMG_00_0000_max_296x197.jpeg"
+            },
+            "propertySubType": "Detached",
+            "propertyTypeFullDescription": "3 bedroom detached house for sale",
+            "propertyUrl": "/properties/161793920#/?channel=RES_BUY",
+            "residential": true,
+            "saved": false,
+            "showOnMap": true,
+            "staticMapUrl": null,
+            "students": false,
+            "summary": "18 The Glebe is a well-presented detached property that is situated in the highly sought-after Village of Cumnor. Offering a great sense of community and affecting easy access into Oxford. The ground floor offers desirable free-flowing living space within the main reception area. There i...",
+            "transactionType": "buy"
+        }
+    ],
+    "message": "Successful",
+    "resultsPerPage": 25,
+    "status": true,
+    "totalResultCount": 3
+}

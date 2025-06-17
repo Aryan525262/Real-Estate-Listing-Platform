@@ -19,6 +19,12 @@
     width: 100%;
     max-width: 15rem;
 }
+.property-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 20px;
+  margin-bottom: 40px;
+}
 
 .r-card>:nth-child(2){
     font-size: 1.2rem;

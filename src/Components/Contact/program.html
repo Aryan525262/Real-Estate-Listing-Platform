@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Diffie-Hellman Key Exchange</title>
+</head>
+<body>
+ <h2>Diffie-Hellman Key Exchange Example</h2>
+ <script>
+ const P = 23;
+ const G = 5;
+ const a = 6;
+ const b = 15;
+ const A = Math.pow(G, a) % P;
+ const B = Math.pow(G, b) % P;
+ const sharedKeyA = Math.pow(B, a) % P;
+ const sharedKeyB = Math.pow(A, b) % P;
+ document.write("Prime (P): " + P + "<br>");
+ document.write("Primitive Root (G): " + G + "<br>");
+ document.write("Public Key A: " + A + "<br>");
+ document.write("Public Key B: " + B + "<br>");
+ document.write("Shared Key Computed by A: " + sharedKeyA + "<br>");
+ document.write("Shared Key Computed by B: " + sharedKeyB + "<br>");
+ </script>
+</body>
+</html>

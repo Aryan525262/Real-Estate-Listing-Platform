@@ -2,61 +2,61 @@
   {
     "name": "Sunny Apartment",
     "price": "1200",
-    "image": "./r1.png",
+    "image": "/prop2.jpg",
     "details": "A cozy 2-bedroom apartment with plenty of sunlight, located in downtown."
   },
   {
     "name": "Luxury Villa",
     "price": "5000",
-    "image": "./r2.png",
+    "image": "/prop3.jpg",
     "details": "A luxurious 5-bedroom villa with a private pool and garden, located in an exclusive neighborhood."
   },
   {
     "name": "Modern Loft",
     "price": "2500",
-    "image": "./r3.png",
+    "image": "/prop4.jpeg",
     "details": "A spacious and modern loft with industrial design, located in a vibrant area with many amenities."
   },
   {
     "name": "Country House",
     "price": "1800",
-    "image": "./r1.png",
+    "image": "/prop5.jpg",
     "details": "A charming 3-bedroom house in the countryside, perfect for those seeking tranquility and nature."
   },
   {
     "name": "Beachfront Condo",
     "price": "3000",
-    "image": "./r2.png",
+    "image": "/prop6.jpeg",
     "details": "A beautiful 2-bedroom condo with direct beach access, offering stunning sea views."
   },
   {
     "name": "Penthouse Suite",
     "price": "7000",
-    "image": "./r3.png",
+    "image": "/prop7.jpeg",
     "details": "An exclusive 4-bedroom penthouse with panoramic city views and luxury amenities."
   },
   {
     "name": "Suburban Home",
     "price": "2200",
-    "image": "./r1.png",
+    "image": "/prop8.jpg",
     "details": "A comfortable 3-bedroom home located in a quiet suburban neighborhood, ideal for families."
   },
   {
     "name": "Studio Apartment",
     "price": "900",
-    "image": "./r2.png",
+    "image": "/prop9.jpeg",
     "details": "A compact and affordable studio apartment, perfect for single occupants or students."
   },
   {
     "name": "Mountain Cabin",
     "price": "1500",
-    "image": "./r3.png",
+    "image": "/prop10.jpg",
     "details": "A rustic 2-bedroom cabin in the mountains, offering stunning views and a peaceful retreat."
   },
   {
     "name": "Urban Flat",
     "price": "2000",
-    "image": "./r1.png",
+    "image": "/prop11.jpg",
     "details": "A modern 2-bedroom flat in the heart of the city, close to shops and public transport."
   }
 ]

@@ -2,11 +2,11 @@ import React from 'react'
 import './Footer.css'
 const Footer = () => {
   return (
-   <section className="f-warrper">
+   <section className="f-wrapper">
     <div className="paddings innerWidth flexCenter f-container">
         {/* Left Footer */}
         <div className="flexColStart f-left">
-            <img src="./logo2.png" alt="" width={120}/>
+            <img src="/property-icon.png" alt="" width={120}/>
             <span className="secondaryText">
                 Our Vision is to make all people the best place to live for them.
             </span>

@@ -3,11 +3,12 @@ import "./Partners.css";
 const Partners = () => {
   return (
     <section className="prt-wrapper">
-      <div className="paddings innerWidth flexCenter prt-container">
-        <img src="./prologis.png" alt="" />
-        <img src="./tower.png" alt="" />
-        <img src="./equinix.png" alt="" />
-        <img src="./realty.png" alt="" />
+        <span className="orangeText flexColStart v-right">Our Partners</span>
+      <div className="paddings innerWidth flexCenter prt-container ">
+        <img src="./comp1.jpeg" alt="" />
+        <img src="./comp2.jpg" alt="" />
+        <img src="./comp3.jpeg" alt="" />
+        <img src="./comp4.jpeg" alt="" />
       </div>
     </section>
   );
