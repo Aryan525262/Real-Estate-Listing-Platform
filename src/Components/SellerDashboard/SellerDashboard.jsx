@@ -1,6 +1,6 @@
 // src/pages/SellerDashboard.jsx
 import React, { useContext } from 'react';
-import SellerNotifications from '../Components/SellerNotifications';
+import SellerNotifications from '../SellerNotifications/SellerNotifications';
 import PropertyContext from '../context/Property/PropertyContext';
 
 const SellerDashboard = () => {

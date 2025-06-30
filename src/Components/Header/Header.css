@@ -1,5 +1,5 @@
 .h-wrapper{
-        color: white;
+    color: rgb(40, 23, 23);
 }
 
 .h-container{
@@ -11,7 +11,7 @@
     padding-bottom: 1rem;
     color: var(--secondary);
 }
-
+A
 .h-menu{
     gap: 2rem;
 }
@@ -35,7 +35,7 @@
         position: absolute;
         top: 3rem;
         right: 4rem;
-        background: white;
+        background: rgb(15, 7, 7);
         flex-direction: column;
         font-weight: 500;
         gap: 2rem;

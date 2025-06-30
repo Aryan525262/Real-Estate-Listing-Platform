@@ -78,7 +78,7 @@ const Hero = () => {
             type:"spring"
           }}
           >
-            <img src="./prop1.jpeg" alt="" />
+            <img src="./prop1.jpg" alt="" />
           </motion.div>
         </div>
       </div>
